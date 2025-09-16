@@ -1,0 +1,63 @@
+{
+  "category": "search-engines",
+  "created_date": "2025-09-15T22:48:59.127805",
+  "default_ports": [
+    80,
+    443,
+    8983
+  ],
+  "dependencies": [
+    "java-11-openjdk"
+  ],
+  "description": "solr is a free and open-source search platform. Solr provides powerful full-text search and near real-time indexing",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/search-engines/solr",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/search-engines/solr",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.127826",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "solr",
+  "repository_url": "https://github.com/howtomgr/solr",
+  "spec_version": "2.0",
+  "subcategory": "search-engines",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "search-engines",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "solr Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/search-engines/solr"
+}
